@@ -27,7 +27,7 @@ public class Boutique {
 
 	@Override
 	public String toString() {
-		return "Boutique [nom=" + nom + "]";
+		return "Boutique [nom=" + nom + ", adresse=" + adresse + "]";
 	}
 	
 	
