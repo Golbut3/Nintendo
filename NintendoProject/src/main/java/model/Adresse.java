@@ -1,11 +1,9 @@
 package model;
 
-
- 
-	public abstract class Adresse{
-			protected int numero;
-			protected String rue;
-			protected String ville;
+	public  class Adresse{
+			private int numero;
+			private String rue;
+			private String ville;
 			
 			public Adresse (int numero,String rue ,String ville) {
 				this.numero=numero;
