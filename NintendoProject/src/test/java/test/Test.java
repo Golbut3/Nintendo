@@ -3,10 +3,6 @@ package test;
 
 import model.Adresse;
 import model.Boutique;
-=======
-import model.Client;
-
-
 import model.Client;
 
 public class Test {
@@ -19,9 +15,6 @@ public class Test {
 		Client c1 = new Client("Charlet", "Lucas");
 		Client c2 = new Client("Doe", "John");
 
-		// TODO Auto-generated method stub
-		Client c1 = new Client("Charlet", "Lucas");
-		Client c2 = new Client("Doe", "John");
 
 	}
 
